@@ -7,5 +7,5 @@
 ## dependencies
 
 ```
-npx expo-cli install react-native-gesture-handler react-native-reanimated react-navigation react-navigation-stack
+npx expo-cli install react-native-gesture-handler react-native-reanimated react-navigation react-navigation-stack axios
 ```
